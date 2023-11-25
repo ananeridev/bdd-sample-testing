@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@cucumber/cucumber": "^10.0.1",
+    "chai": "^4.3.10",
+    "cucumber": "^6.0.7"
+  }
+}
